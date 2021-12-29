@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="271px" height="162px" viewBox="0 0 271 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>180 - iPhone 6 Plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.808236319" y="8.70638341" width="30" height="61.875" rx="12"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="61.875" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0.808236319" y="8.70638341" width="30" height="61.875" rx="12"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="61.875" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="180---iPhone-6-Plus">
+            <g id="Group-11" transform="translate(2.000000, 50.000000)">
+                <g id="Group-10-Copy" transform="translate(67.755998, 50.173063) rotate(-15.000000) translate(-67.755998, -50.173063) translate(8.255998, 14.173063)">
+                    <circle id="Oval-52" cx="17" cy="22" r="4"></circle>
+                    <path d="M31,20.5820313 L44.4085949,20.5820313 L58.2349764,3.84717818 C59.9904407,1.72244034 63.6444543,4.22772928e-13 66.4146481,4.22772928e-13 L84.8433494,4.22772928e-13 C87.6053931,4.22772928e-13 91.1967224,1.79255812 92.8570486,3.99350467 L97.6076965,10.2910156" id="Path-227" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M30,61.3660996 L44.8787416,61.3660996 L52.6959913,67.4936637 C55.6736861,69.8277348 61.1605241,71.7198732 64.9452793,71.7198732 L102.287204,71.7198732 C102.287204,71.7198732 111.033926,70.8943162 111.033926,64.0008116 C111.033926,57.107307 107.531534,58.0426089 102.775992,58.0426089 C98.0204506,58.0426089 92.951505,58.0426089 92.951505,58.0426089" id="Path-228" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M93.8719185,57.6772643 L106.288417,57.6772643 C106.288417,57.6772643 116.5418,56.8517074 116.5418,49.9582028 C116.5418,43.0646981 111.413995,42 105.839291,42 C100.264587,42 93,42 93,42" id="Path-228-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M94.743837,41.6772643 L108.032254,41.6772643 C108.032254,41.6772643 118.285637,40.8517074 118.285637,33.9582028 C118.285637,27.0646981 113.157832,26 107.583128,26 C102.008424,26 93,26 93,26" id="Path-228-Copy-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M92.5650256,25.6772643 L105.005512,25.6772643 C105.005512,25.6772643 113.49107,24.8517074 113.49107,17.9582028 C113.49107,11.0646981 109.247369,10 104.633821,10 C100.020273,10 91,10 91,10" id="Path-228-Copy-3" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <use id="Rectangle-151" stroke="#00EB8E" mask="url(#mask-2)" stroke-width="8" transform="translate(15.808236, 39.643883) rotate(1.000000) translate(-15.808236, -39.643883) " xlink:href="#path-1"></use>
+                    <circle id="Oval-56" fill="#00EB8E" transform="translate(15.777082, 26.730289) rotate(1.000000) translate(-15.777082, -26.730289) " cx="15.7770816" cy="26.7302893" r="5"></circle>
+                </g>
+            </g>
+            <g id="Group-11-Copy" transform="translate(199.500000, 100.500000) scale(-1, 1) translate(-199.500000, -100.500000) translate(132.000000, 50.000000)">
+                <g id="Group-10-Copy" transform="translate(67.755998, 50.173063) rotate(-15.000000) translate(-67.755998, -50.173063) translate(8.255998, 14.173063)">
+                    <circle id="Oval-52" cx="17" cy="22" r="4"></circle>
+                    <path d="M31,20.5820313 L44.4085949,20.5820313 L58.2349764,3.84717818 C59.9904407,1.72244034 63.6444543,4.22772928e-13 66.4146481,4.22772928e-13 L84.8433494,4.22772928e-13 C87.6053931,4.22772928e-13 91.1967224,1.79255812 92.8570486,3.99350467 L97.6076965,10.2910156" id="Path-227" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M30,61.3660996 L44.8787416,61.3660996 L52.6959913,67.4936637 C55.6736861,69.8277348 61.1605241,71.7198732 64.9452793,71.7198732 L102.287204,71.7198732 C102.287204,71.7198732 111.033926,70.8943162 111.033926,64.0008116 C111.033926,57.107307 107.531534,58.0426089 102.775992,58.0426089 C98.0204506,58.0426089 92.951505,58.0426089 92.951505,58.0426089" id="Path-228" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M93.8719185,57.6772643 L106.288417,57.6772643 C106.288417,57.6772643 116.5418,56.8517074 116.5418,49.9582028 C116.5418,43.0646981 111.413995,42 105.839291,42 C100.264587,42 93,42 93,42" id="Path-228-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M94.743837,41.6772643 L108.032254,41.6772643 C108.032254,41.6772643 118.285637,40.8517074 118.285637,33.9582028 C118.285637,27.0646981 113.157832,26 107.583128,26 C102.008424,26 93,26 93,26" id="Path-228-Copy-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M92.5650256,25.6772643 L105.005512,25.6772643 C105.005512,25.6772643 113.49107,24.8517074 113.49107,17.9582028 C113.49107,11.0646981 109.247369,10 104.633821,10 C100.020273,10 91,10 91,10" id="Path-228-Copy-3" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+                    <use id="Rectangle-151" stroke="#00EB8E" mask="url(#mask-4)" stroke-width="8" transform="translate(15.808236, 39.643883) rotate(1.000000) translate(-15.808236, -39.643883) " xlink:href="#path-3"></use>
+                    <circle id="Oval-56" fill="#00EB8E" transform="translate(15.777082, 26.730289) rotate(1.000000) translate(-15.777082, -26.730289) " cx="15.7770816" cy="26.7302893" r="5"></circle>
+                </g>
+            </g>
+            <path d="M128,31.6670494 L128,12" id="Line-Copy-Copy" stroke="#00EB8E" stroke-width="5" stroke-linecap="round"></path>
+            <path d="M113.83204,33.8831285 L105,25" id="Line-Copy-2-Copy" stroke="#00EB8E" stroke-width="5" stroke-linecap="round"></path>
+            <path d="M142,33.8831285 L150.83204,25" id="Line-Copy-3-Copy" stroke="#00EB8E" stroke-width="5" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="135px" height="118px" viewBox="0 0 135 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>120 - iPhone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="10" y="15.5338395" width="88.0092738" height="101.46616" rx="9"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="88.0092738" height="101.46616" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0.05" y="0.848" width="12.95" height="88.152" rx="9"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12.95" height="88.152" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="120---iPhone">
+            <use id="Rectangle-137-Copy-2" stroke="#343438" mask="url(#mask-2)" stroke-width="8" fill="#F4F6FC" xlink:href="#path-1"></use>
+            <path d="M43.5171986,9.77938266 L28.9338154,9.77938266 C25.5225011,9.77938266 22.7549672,12.5446745 22.7549672,15.9558349 L22.7549672,22.1322871 L84.829141,22.1322871 L84.829141,15.9558349 C84.829141,12.5516155 82.0627764,9.77938266 78.6502928,9.77938266 L64.5595618,9.77938266 C63.9493449,4.27393504 59.4715938,0 54.0383802,0 C48.6051666,0 44.1274154,4.27393504 43.5171986,9.77938266 Z M53.7920541,13.3823131 C55.6966441,13.3823131 57.2406193,11.7692262 57.2406193,9.77938266 C57.2406193,7.78953911 55.6966441,6.1764522 53.7920541,6.1764522 C51.8874641,6.1764522 50.3434889,7.78953911 50.3434889,9.77938266 C50.3434889,11.7692262 51.8874641,13.3823131 53.7920541,13.3823131 Z" id="Combined-Shape" fill="#343438"></path>
+            <path d="M24.1633169,44.5 L59.9889401,44.5" id="Line" stroke="#D1D6E4" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M24.1633169,53.5 L59.9889401,53.5" id="Line-Copy" stroke="#D1D6E4" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M24.3375,88.5 L81.8067312,88.5" id="Line-Copy-2" stroke="#D1D6E4" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M24.3375,95.5 L81.8067312,95.5" id="Line-Copy-3" stroke="#D1D6E4" stroke-width="3" stroke-linecap="round"></path>
+            <g id="Group-8" transform="translate(23.875000, 39.312000)" stroke-width="4" stroke-linecap="round">
+                <g id="Group-7" transform="translate(0.505961, 30.174672)" stroke="#343438" stroke-linejoin="round">
+                    <path d="M1.39818542,1.56966713 L11.9046362,11.5491192" id="Path-213"></path>
+                    <path d="M1.39818542,1.56966713 L11.9046362,11.5491192" id="Path-213-Copy" transform="translate(6.500172, 6.455833) scale(-1, 1) translate(-6.500172, -6.455833) "></path>
+                </g>
+                <path d="M16.4382459,38.2107683 C16.4382459,38.2107683 46.5015412,39.5687178 46.5015398,2.8670625" id="Path-215" stroke="#02E989"></path>
+                <polyline id="Path-216" stroke="#00EB8E" points="40.9580186 8.5512606 46.4106998 0.772590792 53.0766078 8.16784207"></polyline>
+            </g>
+            <g id="Group-9" transform="translate(108.000000, 16.000000)" stroke="#343438">
+                <use id="Rectangle-137-Copy-3" mask="url(#mask-4)" stroke-width="6" fill="#F4F6FC" xlink:href="#path-3"></use>
+                <path d="M2.4375,11.5 L11.4999996,11.5" id="Line" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M1.6003418,89 L6.66113281,99.6557617 L1.6003418,89 Z" id="Path-222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF"></path>
+                <path d="M5.82226562,89.5 L10.7219238,99.6557617 L5.82226562,89.5 Z" id="Path-222-Copy" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" transform="translate(8.661133, 94.500000) scale(-1, 1) translate(-8.661133, -94.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
